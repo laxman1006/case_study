@@ -323,7 +323,7 @@ body {
   z-index: 2;
   top: 0;
   right: 0;
-  float: right;
+  
   /* Simply change property to float left to switch icon side :) */
   height: 60px;
   width: 55px;
@@ -823,9 +823,7 @@ body {
   padding-bottom:8%;
   background-color: #fcfafa;
 }
-.words_2{
 
-}
 .newhead_1
 {
   font-size: 45px;
@@ -914,6 +912,112 @@ button:focus { outline: none;color:#6e29af; }
   transition: max-height 0.2s ease-out;
   
   
+}
+.product_head
+{
+  padding-top:70px;
+  padding-bottom:50px;
+  background-color: rgb(53, 53, 53);
+}
+.goal_
+{
+  background-color: rgb(252, 250, 250);
+  padding-top:8%;
+  padding-bottom:8%;
+}
+.wordo_1
+{
+  padding-left: 18%;
+}
+.top_goals
+{
+  background-color: white;
+  
+}
+.goal_word
+{
+  font-size: 1.7rem;
+  color: #665CD7;
+}
+.product_word
+{
+  font-size: 2.2rem;
+  font-family: "fontGraphiksemibold";
+  color:white;
+}
+
+.rightside_content
+{
+  font-size:1.2rem;
+  line-height: 2.7rem;
+  color:white;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-top:10px;
+}
+.siderow_1
+{
+  
+  border: 1px solid rgb(243, 243, 243);
+  
+}
+
+.wordo_4
+{
+  font-size: 18px;
+  padding-top:70px;
+  padding-left:20px;
+  padding-bottom:70px;
+  padding-right:70px;
+  line-height: 2.2rem;
+  color:rgb(85, 85, 85);
+  border-right:1px solid rgb(243, 243, 243);
+}
+
+
+.quote_client
+{
+  padding-bottom:6%;
+  padding-top:6%;
+}
+.qoute_contents
+{
+  background-color: #fafbfc;
+  padding-top:100px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-bottom:50px;
+}
+.whole_content
+{
+  margin-top:5%;
+}
+.details_quote
+{
+  padding:60px;
+}
+.quote_content
+{
+  color: rgba(90, 89, 89, 0.863);
+  line-height: 2.5rem;
+  margin-top:4%;
+  font-weight: 590;
+    font-size: 1.2rem; 
+}
+.name
+{
+  padding-top:40px;
+  font-size:1.8rem;
+  font-family: "fontGraphikbold";
+
+}
+.subtitle
+{
+  margin-top: 2%;
+  font-size:1.4rem;
+  font-family: "fontGraphiksemibold"; 
+  color:#8934eb;
 }
 .next_billion {
   background-color: #242438;
@@ -1776,6 +1880,72 @@ button:focus { outline: none;color:#6e29af; }
   .header_text .banner_text_1 {
     font-size: 2rem !important;
   }
+  .qoute_contents
+{
+  background-color: #fafbfc;
+  padding-top:10px;
+  padding-left:40px;
+  padding-right:10px;
+  padding-bottom:10px;
+}
+.details_quote {
+  padding: 20px;
+}
+.name {
+  padding-top: 10px;
+  font-size: 1.3rem;
+  font-family: "fontGraphikbold";
+}
+  .wordo_1
+{
+  padding-left: 0%;
+}
+.words_from
+{
+  font-size:22px !important;
+}
+.wordo_4
+{
+  font-size: 18px;
+  line-height: 2.2rem;
+  color:rgb(85, 85, 85);
+  border-right:1px solid rgb(243, 243, 243);
+  padding-top:40px;
+  padding-bottom:0px;
+  padding-left:30px;
+  padding-right:30px;
+ 
+}
+
+.icon_112
+{
+  left:20px !important;
+  margin-top:50px !important;
+}
+.icon_12 
+{
+  width:55px !important;
+  height:55px !important;
+  left:20px !important;
+  margin-top:16px !important;
+}
+
+.rightside_content
+{
+  font-size:1.1rem;
+  line-height: 2.7rem;
+  color:white;
+  padding-left:20px;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-top:0px;
+}
+.product_word
+{
+  font-size: 1.4rem;
+  font-family: "fontGraphiksemibold";
+  color:white;
+}
   .list_0
 {
  
@@ -2643,4 +2813,13 @@ button:focus { outline: none;color:#6e29af; }
   margin: 100px auto;
 }
 /*# sourceMappingURL=styles.css.map */
+}
+@media only screen and (max-width: 425px) {
+
+.image_founder
+{
+  width:100% !important;
+  height:100% !important;
+}
+
 }
