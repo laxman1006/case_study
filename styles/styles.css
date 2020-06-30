@@ -474,6 +474,13 @@ body {
   font-size: 20px;
 }
 
+
+
+.w-100 {
+    width: 90%!important;
+    height: 420px;
+    padding-left: 11%;
+}
 .header {
   overflow: hidden;
   background-color: #ffffff;
