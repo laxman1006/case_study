@@ -697,6 +697,10 @@ body {
   font-weight: 400;
   font-size: 1.1rem;
 }
+.services_1
+{
+  color:#b3b1b1;
+}
 
 .Line-2 {
   width: 100%;
@@ -800,11 +804,26 @@ body {
 {
   background-color: #09062e;
   border-radius: 25px;
+ 
 }
 .newrow
 {
   padding:70px;
-  
+}
+ .pink_svg
+ {
+margin-left:70%;
+margin-top:-5%;
+}
+.green_svg
+{
+  margin-top:90%;
+  margin-left:48%;
+}
+.orange_svg
+{
+  margin-left: 96.5%;
+    margin-top: -4%;
 }
 .title1
 {
@@ -961,16 +980,30 @@ button:focus { outline: none;color:#6e29af; }
 }
 .product_word
 {
-  font-size: 2.2rem;
+  font-size: 36px;
   font-family: "fontGraphiksemibold";
   color:rgb(2, 0, 0);
 }
-
+.line
+{
+  margin-top: 54%;
+    margin-left: 60%;
+}
+.line1
+{
+  margin-top: 33%;
+    margin-left: 60%;
+}
 .rightside_content
 {
-  font-size:1.4rem;
-  line-height: 2.7rem;
-  color:rgb(137, 140, 161);
+ 
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.04;
+  letter-spacing: normal;
+  color: #b3b1b1;
   padding-left:0px;
   padding-bottom:10px;
   padding-right:125px;
@@ -986,10 +1019,14 @@ button:focus { outline: none;color:#6e29af; }
 {
   padding-right:14%;
 }
-
+.white_svg
+{
+  margin-left: -96%;
+    margin-top: -98%;
+}
 .wordo_4
 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   padding-top:70px;
   padding-left:20px;
   padding-bottom:0px;
@@ -998,7 +1035,16 @@ button:focus { outline: none;color:#6e29af; }
   color:rgb(85, 85, 85);
   border-right:1px solid rgb(243, 243, 243);
 }
-
+.wordo_41
+{
+  font-size: 1.2rem;
+  padding-top:11px;
+  padding-bottom:0px;
+  padding-right:70px;
+  line-height: 2.2rem;
+  color:rgb(85, 85, 85);
+  border-right:1px solid rgb(243, 243, 243);
+}
 
 .quote_client
 {
