@@ -806,6 +806,17 @@ body {
   border-radius: 25px;
  
 }
+ .new_1
+{
+  box-shadow: 0 22px 44px 0 rgba(60, 50, 122, 0.17);
+  border-radius: 25px;
+  padding:5%;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0));
+  background-color: #3e3877;
+  
+}
+ 
+}
 .newrow
 {
   padding:70px;
@@ -835,12 +846,25 @@ margin-top:-5%;
 .para_challenge
 {
   font-size: 1.3rem;
-  padding-top:60px;
+  padding-top:40px;
   padding-left:200px;
   padding-right:200px;
   line-height:2.8rem;
   text-align: center;
   color: #dfdddd;
+}
+.oval
+{
+  width: 16px;
+  height: 16px;
+  background-color: #ffa000;
+  border-radius: 9px;
+  margin-top: 57px;
+  
+}
+.fav_icon
+{
+  margin-left:90%;
 }
 .points
 {
@@ -854,6 +878,30 @@ margin-top:-5%;
   color: rgba(221, 218, 218, 0.863);
   line-height: 2.5rem; 
   margin-top:2%;
+}
+.Line-Copy
+{
+  width: 84px;
+  height: 1px;
+  border: solid 1.2px #ffa105;
+  margin-left:46%;
+  
+}
+.Line-Copy1
+{
+  width: 82px;
+  height: 1px;
+  border: solid 1.2px #6455c2;
+  margin-left:46%;
+  
+}
+.lineclass
+{
+  padding-top:2%
+}
+.lineclass1
+{
+  padding-top:3%
 }
 .the_result
 {
@@ -1067,13 +1115,14 @@ button:focus { outline: none;color:#6e29af; }
 {
   padding:60px;
 }
+
 .quote_content
 {
   color: rgba(216, 215, 215, 0.863);
   line-height: 2.5rem;
   margin-top:4%;
   font-weight: 590;
-    font-size: 1.5rem; 
+    font-size: 1.2rem; 
     padding-right: 10%;
 }
 .name
@@ -1114,7 +1163,7 @@ button:focus { outline: none;color:#6e29af; }
 }
 .need_help
 {
-text-align: left;
+text-align: center;
 font-size: 2.4rem;
 
 }
@@ -1124,10 +1173,11 @@ padding:3%;
 }
 .lets
 {
-  text-align: left;
+  padding-left:18%;
   padding-top:2%;
   font-family: "fontGraphikbold";
   font-size: 2.7rem;
+  text-align: left;
 }
 
 .next_billion .billion .titel_button {
