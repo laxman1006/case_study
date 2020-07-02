@@ -1025,7 +1025,7 @@ button:focus {
 }
 
 .goal_ {
-  background-color: rgb(252, 250, 250);
+  background-color: rgb(255, 255, 255);
   padding-top     : 8%;
   padding-bottom  : 8%;
 }
@@ -2334,8 +2334,10 @@ button:focus {
 
     .banner_text_31 {
       padding-left: 10% !important;
+      padding-top:2%;
+      font-size: 14px !important;
     }
-
+ 
     .qoute_contents {
       background-color: #180b31;
       padding-top     : 50px;
@@ -2356,54 +2358,165 @@ button:focus {
       padding-left: 17% !important;
       font-size   : 24px !important;
     }
-
+    .Line-Copy {
+      width      : 84px;
+      height     : 1px;
+      border     : solid 1.2px #ffa105;
+      margin-left: 38%;
+    
+    }
+    .para_challenge {
+      font-size: 17px !important;
+      padding-top: 20px !important;
+  }
+    .newlist .title1 {
+      font-size: 20px;
+      margin-top: 6%;
+      margin-left: 0px !important;
+  }
     .words_from {
       font-size   : 22px !important;
-      padding-left: 15% !important;
+      padding-left: 16% !important;
 
     }
+      .top_intro1
+      {
+        padding-left:18% !important;
+      }
 
     .quote_content {
       color        : rgba(216, 215, 215, 0.863);
       line-height  : 2.5rem;
       margin-top   : 4%;
       font-weight  : 590;
-      font-size    : 19px !important;
-      padding-right: 10% !important;
-      padding-left : 15% !important;
+      font-size    : 17px !important;
+      padding-right: 12% !important;
+      padding-left : 16% !important;
     }
+    .Line-1
+    {
+      padding-left:16% !important;
+    }
+    .w-100 {
+      width: 92% !important;
+      height: 276px;
+      padding-left: 11%;
 
-
-
+  }
+  
+  
+    .carousel-control-prev
+    {
+      width:40px !important;
+      height:40px !important;
+      margin-left:2% !important;
+      margin-top: 110px !important;
+     
+    }
+    .carousel-control-next
+    {
+      width:40px !important;
+      height:40px !important;
+      margin-top: 115px !important;
+     
+    }
+    .Line-Copy1 {
+      width: 82px;
+      height: 1px;
+      border: solid 1.2px #6455c2;
+      margin-left: 40% !important;
+  }
+    .fav_icon {
+      margin-left: 74%;
+    }
+.icon_12{
+  left:0px !important;
+  width:90px !important;
+  height:90px !important;
+}
+.green_svg {
+  margin-top : 250px !important;
+  margin-left: 10% !important;
+}
+.pink_svg {
+  margin-left: 80% !important;
+  margin-top : -20% !important;
+}
+.orange_svg {
+  margin-left: 96%;
+  margin-top : -4%;
+  width      : 8%;
+}
+.icon_112
+{
+  left:50px !important;
+}
+.icon_1123
+{
+  left:50px !important;
+}
+.line {
+  margin-top: 105px !important;
+}
+.line1{
+  margin-top: 70px !important;
+}
+.white_svg {
+  margin-left: -132%;
+  margin-top: -312%;
+  width: 76%;
+}
+.para_on_goals {
+  padding-right: 5%;
+}
+.goal_
+{
+  margin-top:4% !important;
+  padding-left: 2% !important;
+}
     .list_0 {
-      padding-right: 40px;
-      padding-left : 20px;
+      padding-right: 0px !important;
+      padding-left : 100px !important;
     }
 
     .list_1 {
       padding-right: 40px !important;
       padding-left : 20px !important;
     }
-
+   .banner_text_3 .words_1 {
+       font-size:12px !important;
+       padding-left:9% !important;
+  }
+ 
     .image_founder {
-      width        : 80% !important;
-      height       : 80% !important;
+      width        : 100% !important;
+      height       : 100% !important;
       padding-top  : 2% !important;
-      padding-left : 20px !important;
+      padding-left : 20% !important;
       padding-right: 5px !important;
     }
-
+.quotes
+{
+  padding-left:17% !important;
+}
     .need_help {
       text-align: left !important;
       font-size : 1.4rem !important;
+      padding-left:16% !important;
     }
 
     .lets {
-      text-align : center !important;
+      text-align : left !important;
       padding-top: 2%;
       font-family: "fontGraphikbold";
       font-size  : 1.7rem;
+      padding-left:30% !important;
+
     }
+    .next_billion_1_1 {
+      padding-left: 24%;
+      padding-top: 3.5%;
+  }
 
     .para_challenge {
       font-size    : 1.3rem;
@@ -2419,5 +2532,53 @@ button:focus {
       padding-top   : 14%;
       padding-bottom: 8%;
     }
+  }
+  @media only screen and (max-width: 321px) {
+    .Line-1 {
+      padding-left: 16% !important;
+      width:90% !important;
+  }
+  .icon_12 {
+    left: 0px !important;
+    width: 60px !important;
+    height: 60px !important;
+    padding-top:2% !important;
+    margin-top:20% !important;
+}
+
+.img1{
+width:24px !important;
+}
+.icon_112
+{
+  left:35px !important;
+}
+.icon_1123
+{
+  left:32px !important;
+}
+.line {
+  margin-top: 105px !important;
+}
+.line1{
+  margin-top: 70px !important;
+}
+  }
+  @media only screen and (max-width: 375px) {
+    .icon_112
+    {
+      left:40px !important;
+    }
+    .icon_1123
+    {
+      left:40px !important;
+    }
+    .line {
+      margin-top: 105px !important;
+    }
+    .line1{
+      margin-top: 70px !important;
+    }
+
   }
 }
