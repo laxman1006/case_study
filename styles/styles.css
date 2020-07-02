@@ -2563,6 +2563,38 @@ width:24px !important;
 .line1{
   margin-top: 70px !important;
 }
+.lets {
+  text-align: left !important;
+  padding-top: 2%;
+  font-family: "fontGraphikbold";
+  font-size: 1.7rem;
+  padding-left: 25% !important;
+}
+.need_help {
+  text-align: left !important;
+  font-size: 1.3rem !important;
+  padding-left: 16% !important;
+}
+.next_billion_1_1 {
+  padding-left: 21%;
+  padding-top: 3.5%;
+}
+.carousel-control-prev
+    {
+      width:40px !important;
+      height:40px !important;
+      margin-left:1% !important;
+      margin-top: 110px !important;
+     
+    }
+    .carousel-control-next
+    {
+      width:40px !important;
+      height:40px !important;
+      margin-left:4% !important;
+      margin-top: 115px !important;
+     
+    }
   }
   @media only screen and (max-width: 375px) {
     .icon_112
