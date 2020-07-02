@@ -1865,8 +1865,38 @@ button:focus {
   }
 
   .banner_text_3 .words_1 {
-    margin-left: 16% !important;
-    font-size  : 12px;
+    margin-left: 0% !important;
+    font-size  : 11px;
+  }
+  .icon_1 
+  {
+    margin-top: 0px;
+    padding: 0;
+    display: flex;
+    display: flex;
+    border-radius: 60px;
+    position: absolute;
+    left: 24px !important;
+    height: 60px;
+    text-align: center;
+    width: 60px;
+    vertical-align: middle;
+    border: solid 1px #e3e3e3;
+  }
+  .fa_icon 
+  {
+    margin-top: 0px;
+    padding: 0;
+    display: flex;
+    display: flex;
+    border-radius: 60px;
+    position: absolute;
+    left: 24px !important;
+    height: 60px;
+    text-align: center;
+    width: 60px;
+    vertical-align: middle;
+    border: solid 1px #e3e3e3;
   }
   .qoute_contents {
     background-color: #180b31;
