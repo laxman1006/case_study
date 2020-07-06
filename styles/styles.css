@@ -911,13 +911,21 @@ body {
   margin-left: 46%;
 
 }
+.Line-Copy12 {
+  width      : 84px;
+  height     : 1px;
+  border     : solid 1.2px #ffa105;
+  margin-left: -2% !important;
+  margin-bottom:2%;
+
+}
 
 .lineclass {
   padding-top: 2%
 }
 
 .lineclass1 {
-  padding-top: 3%
+  padding-top: 2%
 }
 
 .the_result {
@@ -996,7 +1004,7 @@ body {
 {
   padding-top:15%;
   padding-left:10%;
-  font-size:42px;
+  font-size:37px;
   font-weight: 900;
   font-family: fontGraphikbold;
   color:white;
@@ -1014,7 +1022,7 @@ line-height: 2.8rem;
 {
   padding-top:15%;
   padding-left:10%;
-  font-size:42px;
+  font-size:37px;
   font-weight: 900;
   font-family: fontGraphikbold;
   color:black;
@@ -1758,6 +1766,17 @@ button:focus {
     padding-top: 4% !important;
 
   }
+  .middle_text {
+    margin-top   : 4%;
+    margin-bottom: 4%;
+    margin-left:4%;
+  }
+  .quote_client {
+    padding-bottom: 6%;
+    padding-top: 6%;
+     padding-left: 4% !important;
+    width: 100% !important;
+  }
 .dotted{
   width:100% !important;
 }
@@ -1770,16 +1789,122 @@ button:focus {
   margin-top: -25%;
   padding-left: 16% !important;
 }
+.new_12 {
+  box-shadow      : 0 22px 44px 0 rgba(60, 50, 122, 0.17);
+  border-radius   : 25px;
+  padding         : 5%;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0));
+  background-color: #3e3877;
+  margin-left: 5%;
+
+}
+.points
+{
+  padding-top:15%;
+  padding-left:10%;
+  font-size:32px;
+  font-weight: 900;
+  font-family: fontGraphikbold;
+  color:white;
+}
+.paraslide
+{
+padding-left:10%;
+color:white;
+padding-right: 45%;
+padding-top: 3%;
+font-size:21px;
+line-height: 2.8rem;
+}
+ .points_1
+{
+  padding-top:15%;
+  padding-left:10%;
+  font-size:32px;
+  font-weight: 900;
+  font-family: fontGraphikbold;
+  color:black;
+}
+.paraslide_1
+{
+padding-left:10%;
+color:black;
+padding-right: 40%;
+padding-top: 3%;
+font-size:21px;
+line-height: 2.8rem;
+}
 .cards1
 {
   margin-top: -25%;
   margin-left: 23%;
 }
-
+.the_result {
+  padding-top     : 5%;
+  padding-bottom  : 8%;
+  background-color: #fcfafa;
+  margin-left: 4%;
+}
 .cards
 {
   margin-top: -25%;
   margin-left: 9%;
+}
+.frstslide {
+  width: 600px;
+  height: 430px;
+  border-radius: 10px;
+  background-color: #9f4b6e;
+}
+.secondslide {
+  width: 600px;
+  height: 430px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.03);
+ 
+}
+.thirdslide {
+  width: 600px;
+  height: 430px;
+  border-radius: 10px;
+  background-color: #476f6f;
+}
+.Rectangle-Copy-7 {
+  width: 372px;
+  height: 290px;
+  border-radius: 17px;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  border: solid 1px #e4e4e4;
+  background-color: #ffffff;
+  margin-left: 65%;
+  margin-top: -46%;
+}
+.Rectangle-Copy-71 {
+  width: 372px;
+  height: 290px;
+  border-radius: 17px;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  border: solid 1px #e4e4e4;
+  background-color: #ffffff;
+  margin-left: 65%;
+  margin-top: -46%;
+}
+.block {
+  margin-left: 12% !important;
+}
+.carousel-control-prev
+{
+  margin-top:172px !important;
+}
+.carousel-control-next
+{
+  margin-top:179px !important;
+}
+.Line-Copy {
+  width: 84px;
+  height: 1px;
+  border: solid 1.2px #ffa105;
+  margin-left: 45%;
 }
 .Lorem-ipsum-dolor-si
 {
@@ -2083,7 +2208,43 @@ button:focus {
     margin-left: 0% !important;
     font-size  : 11px;
   }
-
+  .Title-goes-here h1 {
+    font-size: 28px !important;
+    font-weight: 0;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.69;
+    letter-spacing: normal;
+    text-align: center;
+    font-family: "fontGraphikbold";
+    color: #000000;
+  }
+  .new_12 {
+    margin-left:5% !important;
+  }
+  .the_result {
+    margin-left:4% !important;
+  }
+  .fratures_container
+  {
+    margin-left: 2% !important;
+  }
+  .quote_client {
+    padding-bottom: 6%;
+    padding-top: 6%;
+    padding-left: 4% !important;
+}
+.middle_text {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 4% !important;
+}
+.goal_ {
+  background-color: rgb(255, 255, 255);
+  padding-top: 8%;
+  padding-bottom: 8%;
+  margin-left: 4%;
+}
   .icon_1 {
     margin-top    : 0px;
     padding       : 0;
@@ -2121,6 +2282,103 @@ button:focus {
 {
   margin-top: -25%;
   margin-left: 17% ;
+}
+.frstslide {
+  width: 500px;
+  height: 390px;
+  border-radius: 10px;
+  background-color: #9f4b6e;
+}
+.secondslide {
+  width: 500px;
+  height: 390px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.03);
+ 
+}
+.thirdslide {
+  width: 500px;
+  height: 390px;
+  border-radius: 10px;
+  background-color: #476f6f;
+}
+.Rectangle-Copy-7 {
+  width: 272px;
+  height: 250px;
+  border-radius: 17px;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  border: solid 1px #e4e4e4;
+  background-color: #ffffff;
+  margin-left: 65%;
+  margin-top: -52%;
+}
+.Rectangle-Copy-71 {
+  width: 272px;
+  height: 250px;
+  border-radius: 17px;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  border: solid 1px #e4e4e4;
+  background-color: #ffffff;
+  margin-left: 65%;
+  margin-top: -51%;
+}
+.points
+{
+  padding-top:15%;
+  padding-left:10%;
+  font-size:24px;
+  font-weight: 900;
+  font-family: fontGraphikbold;
+  color:white;
+}
+.paraslide
+{
+padding-left:10%;
+color:white;
+padding-right: 45%;
+padding-top: 3%;
+font-size:18px;
+line-height: 2.8rem;
+}
+ .points_1
+{
+  padding-top:15%;
+  padding-left:10%;
+  font-size:24px;
+  font-weight: 900;
+  font-family: fontGraphikbold;
+  color:black;
+}
+.paraslide_1
+{
+padding-left:10%;
+color:black;
+padding-right: 40%;
+padding-top: 3%;
+font-size:18px;
+line-height: 2.8rem;
+}
+.block {
+  margin-left: 10% !important;
+}
+.carousel-control-prev
+{
+  margin-top:152px !important;
+  width: 50px !important;
+  height:50px !important;
+}
+.Line-Copy {
+  width: 84px;
+  height: 1px;
+  border: solid 1.2px #ffa105;
+  margin-left: 44%;
+}
+.carousel-control-next
+{
+  margin-top:159px !important;
+  margin-left: 10% !important;
+  width: 50px !important;
+  height:50px !important;
 }
 .Lorem-ipsum-dolor-si
 {
@@ -2607,7 +2865,114 @@ button:focus {
       padding-right   : 0px;
       padding-bottom  : 50px;
     }
-
+    .caro 
+    {
+      padding-left: 0% !important;
+      padding-right: 0% !important;
+    }
+    .frstslide {
+      width: 300px;
+      height: 290px;
+      border-radius: 10px;
+      background-color: #9f4b6e;
+    }
+    .secondslide {
+      width: 300px;
+      height: 290px;
+      border-radius: 10px;
+      background-color: rgba(0, 0, 0, 0.03);
+     
+    }
+    .thirdslide {
+      width: 300px;
+      height: 290px;
+      border-radius: 10px;
+      background-color: #476f6f;
+    }
+    .Rectangle-Copy-7 {
+      width: 132px;
+      height: 180px;
+      border-radius: 17px;
+      box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+      border: solid 1px #e4e4e4;
+      background-color: #ffffff;
+      margin-left: 70%;
+      margin-top: -70%;
+    }
+    .Rectangle-Copy-71 {
+      width: 132px;
+      height: 180px;
+      border-radius: 17px;
+      box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+      border: solid 1px #e4e4e4;
+      background-color: #ffffff;
+      margin-left: 70%;
+      margin-top: -74%;
+    }
+    fratures_container {
+       margin-left: 0% !important; 
+  }
+  .new_12 {
+    margin-left: 3% !important;
+}
+    .points
+    {
+      padding-top:15%;
+      padding-left:10%;
+      font-size:18px;
+      font-weight: 900;
+      font-family: fontGraphikbold;
+      color:white;
+    }
+    .paraslide
+    {
+    padding-left:10%;
+    color:white;
+    padding-right: 35%;
+    padding-top: 3%;
+    font-size:16px;
+    line-height: 1.8rem;
+    }
+     .points_1
+    {
+      padding-top:15%;
+      padding-left:10%;
+      font-size:18px;
+      font-weight: 900;
+      font-family: fontGraphikbold;
+      color:black;
+    }
+    .paraslide_1
+    {
+    padding-left:10%;
+    color:black;
+    padding-right: 34%;
+    padding-top: 3%;
+    font-size:16px;
+    line-height: 1.8rem;
+    }
+    .block {
+      margin-left: 10% !important;
+    }
+    .carousel-control-prev
+    {
+      margin-top:122px !important;
+      width: 30px !important;
+      height:30px !important;
+    }
+    .Line-Copy {
+      width: 84px;
+      height: 1px;
+      border: solid 1.2px #ffa105;
+      margin-left: 44%;
+    }
+    .carousel-control-next
+    {
+      margin-top:129px !important;
+      margin-left: 30px !important;
+      width: 30px !important;
+      height:30px !important;
+    }
     .name {
       padding-left: 15%;
     }
@@ -2711,20 +3076,7 @@ button:focus {
     }
 
 
-    .carousel-control-prev {
-      width      : 40px !important;
-      height     : 40px !important;
-      margin-left: 2% !important;
-      margin-top : 110px !important;
-
-    }
-
-    .carousel-control-next {
-      width     : 40px !important;
-      height    : 40px !important;
-      margin-top: 115px !important;
-
-    }
+   
 
     .Line-Copy1 {
       width      : 82px;
