@@ -3603,7 +3603,7 @@ line-height: 2.8rem;
   padding-bottom: 5%;
 }
 .need_help {
-  text-align: left !important;
+  
   font-size: 1.3rem !important;
   padding-left: -6% !important;
   padding-top:5% !important;
@@ -3640,8 +3640,13 @@ line-height: 2.8rem;
 }
 .img123 {
   width: 37%;
-  margin-left: 67%;
+  margin-left: 64%;
   margin-top: -30%;
+}
+.img12345 {
+  width: 46%;
+  margin-left: 0% !important;
+  margin-top: -13%!important;
 }
 .para_challenge {
   font-size    : 1.3rem;
@@ -3654,10 +3659,20 @@ line-height: 2.8rem;
 }
 .goal_ {
   margin-top  : 4% !important;
+  margin-left: 0% !important;
   padding-left: 0% !important;
 }
 .the_result {
   margin-left: 0% !important;
+}
+.fav_icon {
+  margin-left: 69%;
+  margin-top: -12px;
+}
+.quote_client {
+  padding-bottom: 6%;
+  padding-top: 6%;
+   padding-left: 0% !important; 
 }
 .circlewhite
 {
@@ -3665,5 +3680,10 @@ line-height: 2.8rem;
   height: 90px !important;
   margin-left: 5% !important;
     margin-top: -45% !important;
+}
+.middle_text {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 0% !important;
 }
   }
