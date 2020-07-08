@@ -509,7 +509,7 @@ body {
   margin-top: -51%!important;
 }
 .qoute_contents {
-  background-color: #180b31;
+  background-color: #1D1A42;
   padding-top     : 30px;
   padding-left    : 0px;
   padding-right   : 100px;
@@ -877,8 +877,8 @@ body {
   box-shadow   : 0 22px 44px 0 rgba(60, 50, 122, 0.17);
   border-radius: 25px;
 
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0));
-  background-color: #211958;
+  
+  background-color: #1D1A42;
 
 }
 
@@ -886,8 +886,8 @@ body {
   box-shadow      : 0 22px 44px 0 rgba(60, 50, 122, 0.17);
   border-radius   : 25px;
   padding-top: 4%;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.38), rgba(255, 255, 255, 0));
-  background-color:#0c0642;
+  
+  background-color:#1D1A42;
 
 }
 
