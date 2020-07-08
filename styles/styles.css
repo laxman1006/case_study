@@ -514,6 +514,7 @@ body {
   padding-left    : 0px;
   padding-right   : 100px;
   padding-bottom : 0px !important;
+  width: 100%;
   
 }
 .header {
@@ -718,7 +719,7 @@ body {
   padding-bottom: 6%;
   padding-top: 6%;
    padding-left: 0% !important;
-  width: 100% !important;
+ 
   
 }
 .banner_text_1 h2 {
@@ -1392,6 +1393,7 @@ button:focus {
   font-weight  : 590;
   font-size    : 1.2rem;
   padding-right: 10%;
+  
 }
 
 .name {
@@ -1787,6 +1789,7 @@ button:focus {
     width      : 100%;
     padding-top: 5%;
   }
+  
 }
 
 @media only screen and (min-width: 2240px) {
@@ -2968,20 +2971,20 @@ line-height: 2.8rem;
 
   @media only screen and (max-width: 426px) {
     .para_challenge {
-      font-size  : 18px !important;
-      padding-top: 20px !important;
+      font-size  : 16px !important;
+      padding-top: 13px !important;
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+      line-height: 2.4rem !important;
     }
-
     .banner_text_2 {
       font-size: 18px;
     }
-
     .banner_text_31 {
       padding-left: 10% !important;
       padding-top : 2%;
       font-size   : 14px !important;
     }
-
     .qoute_contents {
       background-color: #180b31;
       padding-top     : 50px;
@@ -3037,7 +3040,7 @@ line-height: 2.8rem;
        margin-left: 0% !important; 
   }
   .new_12 {
-    margin-left: 3% !important;
+    margin-left: 2% !important;
 }
     .points
     {
@@ -3117,15 +3120,9 @@ line-height: 2.8rem;
       margin-left: 38%;
 
     }
-
-    .para_challenge {
-      font-size  : 17px !important;
-      padding-top: 20px !important;
-    }
-
     .newlist .title1 {
       font-size  : 20px;
-      margin-top : -32%;
+      margin-top : -38%;
       margin-left: 0px !important;
     }
 
@@ -3295,7 +3292,7 @@ line-height: 2.8rem;
 
     .need_help {
       text-align  : left !important;
-      font-size   : 1.4rem !important;
+      font-size   : 1.2rem !important;
       padding-left: -6% !important;
     }
     .circlewhite {
@@ -3308,7 +3305,7 @@ line-height: 2.8rem;
       text-align  : left !important;
       padding-top : 2%;
       font-family : "fontGraphikbold";
-      font-size   : 1.7rem;
+      font-size   : 1.3rem;
       padding-left: 30% !important;
 
     }
@@ -3320,11 +3317,11 @@ line-height: 2.8rem;
     }
 
     .para_challenge {
-      font-size    : 1.3rem;
+      font-size    : 1.2rem;
       padding-top  : 60px;
       padding-left : 10px;
       padding-right: 10px;
-      line-height  : 2.8rem;
+      line-height  : 2.4rem;
       text-align   : center;
       color        : #dfdddd;
     }
@@ -3345,8 +3342,8 @@ line-height: 2.8rem;
 }
 .img123 {
   width: 40%;
-  margin-left: 63%;
-  margin-top: -30%;
+  margin-left: 66%;
+  margin-top: -33%;
 }
 .features_lhs1 {
   width: 31%;
@@ -3607,7 +3604,7 @@ line-height: 2.8rem;
   padding-left: -6% !important;
 }
 .new_12 {
-  margin-left: 2% !important;
+  margin-left: 0% !important;
 }
 .oval {
   width           : 10px;
