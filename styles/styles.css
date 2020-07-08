@@ -3040,7 +3040,7 @@ line-height: 2.8rem;
        margin-left: 0% !important; 
   }
   .new_12 {
-    margin-left: 2% !important;
+    margin-left: 0% !important;
 }
     .points
     {
@@ -3480,6 +3480,10 @@ line-height: 2.8rem;
       border-radius:100px !important;
 
     }
+    .goal_ {
+      margin-top  : 4% !important;
+      padding-left: 0% !important;
+    }
     .icon_12 {
       left: 4px !important;
       width: 65px !important;
@@ -3491,6 +3495,11 @@ line-height: 2.8rem;
     font-family: "fontGraphiksemibold";
     color: rgb(2, 0, 0);
     margin-top: 2% !important;
+}
+.quote_client {
+  padding-bottom: 6%;
+  padding-top: 6%;
+  padding-left: 0% !important;
 }
 .Line-Copy12 {
   width: 84px;
@@ -3613,6 +3622,11 @@ line-height: 2.8rem;
   border-radius   : 9px;
   margin-top      : 40px !important;
 
+}
+.img123 {
+  width: 34%;
+  margin-left: 66%;
+  margin-top: -33%;
 }
 .oval_svg
 {
