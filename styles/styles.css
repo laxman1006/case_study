@@ -3599,12 +3599,14 @@ line-height: 2.8rem;
 }
 .next_billion_1_1 {
   padding-left: 28%;
-  padding-top: 3.5%;
+  padding-top: 2.5%;
+  padding-bottom: 5%;
 }
 .need_help {
   text-align: left !important;
   font-size: 1.3rem !important;
   padding-left: -6% !important;
+  padding-top:5% !important;
 }
 .new_12 {
   margin-left: 0% !important;
@@ -3656,5 +3658,12 @@ line-height: 2.8rem;
 }
 .the_result {
   margin-left: 0% !important;
+}
+.circlewhite
+{
+  width: 65px !important;
+  height: 90px !important;
+  margin-left: 5% !important;
+    margin-top: -45% !important;
 }
   }
