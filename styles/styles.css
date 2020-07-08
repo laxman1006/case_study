@@ -3689,3 +3689,31 @@ line-height: 2.8rem;
   margin-left: 0% !important;
 }
   }
+  @media only screen and (max-width: 412px) { 
+    .middle_text {
+      margin-top: 4%;
+      margin-bottom: 4%;
+      margin-left: 0% !important;
+    }
+    .quote_client {
+      padding-bottom: 6%;
+      padding-top: 6%;
+       padding-left: 0% !important; 
+    }
+    .goal_ {
+      margin-top  : 4% !important;
+      margin-left: 0% !important;
+      padding-left: 0% !important;
+    }
+    .the_result {
+      margin-left: 0% !important;
+    }
+    .newlist .title1 {
+      font-size  : 18px !important;
+      margin-top : -32% !important;
+      margin-left: 0px !important;
+    }
+    .new_12 {
+      margin-left: 0% !important;
+    }
+  }
