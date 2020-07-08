@@ -3480,6 +3480,15 @@ line-height: 2.8rem;
       border-radius:100px !important;
 
     }
+    .para_challenge {
+      font-size    : 1.2rem;
+      padding-top  : 60px;
+      padding-left : 10px;
+      padding-right: 10px;
+      line-height  : 2.4rem;
+      text-align   : center;
+      color        : #dfdddd;
+    }
     .goal_ {
       margin-top  : 4% !important;
       padding-left: 0% !important;
@@ -3628,6 +3637,11 @@ line-height: 2.8rem;
   margin-left: 66%;
   margin-top: -33%;
 }
+.img12 {
+  width: 40%;
+  margin-left: -5% !important;
+  margin-top: 0%!important;
+}
 .oval_svg
 {
   padding-left: 50px;
@@ -3636,5 +3650,14 @@ line-height: 2.8rem;
   padding-top: 2%;
   padding-right: 0px !important;
   padding-left: 81px !important;
+}
+.newrow {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.newlist .title1 {
+  font-size: 18px !important;
+  margin-top: -28%;
+  margin-left: 0px !important;
 }
   }
