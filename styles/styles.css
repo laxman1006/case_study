@@ -3465,7 +3465,7 @@ line-height: 2.8rem;
     }
   }
 
-  @media only screen and (max-width: 378px) {
+  @media only screen and (max-width: 375px) {
     .icon_112 {
       left: 40px !important;
       width: 30px !important;
@@ -3607,7 +3607,7 @@ line-height: 2.8rem;
   padding-left: -6% !important;
 }
 .new_12 {
-  margin-left: 2% !important;
+  margin-left: 0% !important;
 }
 .oval {
   width           : 10px;
