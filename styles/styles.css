@@ -3552,18 +3552,20 @@ line-height: 2.8rem;
    .cards0
    {
      margin-top: 0%;
-     padding-left: 28% !important;
+     padding-left: 22% !important;
    }
    .cards1
    {
-     margin-top: 8%;
-     margin-left: 24% !important;
+     margin-top: 10%;
+     margin-left: 18% !important;
    }
    
    .cards
    {
-     margin-top: 8%;
-     margin-left: 24% !important ;
+     margin-top: 10%;
+     margin-left: 18% !important ;
+     margin-bottom:3% !important;
+
    }
    .numbers {
     font-family: fontGraphicbold;
