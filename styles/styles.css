@@ -483,9 +483,9 @@ body {
   padding-left: 11%;
 }
 .img12 {
-  width: 100%;
-  margin-left: -10% !important;
-  margin-top: -51%!important;
+  width: 41%;
+  margin-left: -4% !important;
+  margin-top: 0%!important;
 }
 .img122 {
   width: 100%;
@@ -494,9 +494,9 @@ body {
 }
 .img123
 {
-  width: 45%;
-    margin-left: 63%;
-    margin-top: -40%;
+  width: 40%;
+    margin-left: 61% !important;
+    margin-top: -33%;
 }
 .img1234
 {
@@ -3464,7 +3464,7 @@ line-height: 2.8rem;
     }
   }
 
-  @media only screen and (max-width: 378px) {
+  @media only screen and (max-width: 375px) {
     .icon_112 {
       left: 40px !important;
       width: 30px !important;
@@ -3631,6 +3631,7 @@ line-height: 2.8rem;
   margin-right: 0% !important;
   padding-left: 0px !important;
   padding-right: 0px !important;
+  box-shadow   : none !important;
 }
 .oval {
   width           : 10px;
