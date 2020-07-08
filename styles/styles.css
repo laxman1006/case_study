@@ -3629,6 +3629,8 @@ line-height: 2.8rem;
 .new_1 {
   margin-left: 0% !important;
   margin-right: 0% !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
 }
 .oval {
   width           : 10px;
@@ -3659,7 +3661,9 @@ line-height: 2.8rem;
 }
 .newrow {
   padding-left: 0px !important;
-  padding-right: 10px !important;
+  padding-right: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
 }
 .newlist .title1 {
   font-size: 18px !important;
