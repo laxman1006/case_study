@@ -2310,7 +2310,10 @@ line-height: 2.8rem;
     font-family: "Avenir-Medium";
     margin-left: "5px";
   }
-
+.para_on_goals 
+{
+  font-size: 18px !important;
+}
   .list_0 {
     color      : rgba(133, 131, 131, 0.863);
     line-height: 2.5rem;
