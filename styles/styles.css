@@ -2310,6 +2310,19 @@ line-height: 2.8rem;
     font-family: "Avenir-Medium";
     margin-left: "5px";
   }
+  .rightside_content {
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.04;
+    letter-spacing: normal;
+    color: #878787;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 125px;
+    padding-top: 10px;
+}
 .para_on_goals 
 {
   font-size: 18px !important;
