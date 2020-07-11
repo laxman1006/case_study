@@ -1102,7 +1102,7 @@ banner_text_1 p
   height     : 1px;
   border     : solid 1.2px #ffa105;
   margin-left: -2% !important;
-  margin-bottom:2%;
+  margin-bottom:6%;
 
 }
 
@@ -2292,6 +2292,7 @@ line-height: 2.8rem;
     padding-right: 0%;
     padding-left : 0% !important;
   }
+
   .Rectangle-Copy-712 {
     width: 372px;
     height: 290px;
@@ -2343,7 +2344,7 @@ line-height: 2.8rem;
   .lets {
     padding-left: 32% !important;
     padding-top : 2%;
-    font-family : "fontGraphikbold";
+  
     font-size   : 2.4rem;
     text-align  : left;
   }
@@ -2853,7 +2854,7 @@ line-height: 2.8rem;
   .name {
     padding-top: 10px;
     font-size  : 1.3rem;
-    font-family: "fontGraphikbold";
+    
   }
 
   .wordo_ {
@@ -2939,7 +2940,7 @@ line-height: 2.8rem;
 
   .product_word {
     font-size  : 1.6rem;
-    font-family: "fontGraphiksemibold";
+   
     color      : rgb(2, 0, 0);
   }
 
@@ -3062,7 +3063,7 @@ line-height: 2.8rem;
   text-align : left !important;
   padding-top: 2%;
   padding-left: 35% !important;
-  font-family: "fontGraphikbold";
+
   font-size  : 1.7rem;
 }
 }
@@ -3235,12 +3236,7 @@ line-height: 2.8rem;
       text-align: left !important;
       margin-top: 0 !important;
     }
-
-
-
-
   }
-
   @media only screen and (max-width: 426px) {
     .para_challenge {
       font-size  : 18px !important;
@@ -3253,9 +3249,27 @@ line-height: 2.8rem;
 
     .banner_text_31 {
       padding-left: 10% !important;
-      padding-top : 2%;
+      
       font-size   : 14px !important;
     }
+    .words_1 .web_app {
+      font-size: 16px;
+      font-weight: 900;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      color: #000000;
+  }
+  .words_1 .services_1 {
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #878787;
+}
 
     .qoute_contents {
       background-color: #1D1A42;
@@ -3270,43 +3284,56 @@ line-height: 2.8rem;
       padding-right: 0% !important;
     }
     .frstslide {
-      width: 300px;
+      width: 340px;
       height: 290px;
       border-radius: 10px;
       background-color: #9f4b6e;
     }
     .secondslide {
-      width: 300px;
+      width: 340px;
       height: 290px;
       border-radius: 10px;
       background-color: rgba(0, 0, 0, 0.03);
      
     }
     .thirdslide {
-      width: 300px;
+      width: 340px;
       height: 290px;
       border-radius: 10px;
       background-color: #476f6f;
     }
     .Rectangle-Copy-7 {
-      width: 132px;
-      height: 180px;
+      position: relative;
+      width: 268px;
+      height: 120px;
       border-radius: 17px;
       box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
       border: solid 1px #e4e4e4;
       background-color: #ffffff;
-      margin-left: 70%;
-      margin-top: -70%;
+      margin-left: 10%;
+      margin-top: 5%;
     }
     .Rectangle-Copy-71 {
-      width: 132px;
-      height: 180px;
+      position: relative;
+      width: 265px;
+      height: 120px;
       border-radius: 17px;
       box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
       border: solid 1px #e4e4e4;
       background-color: #ffffff;
-      margin-left: 70%;
-      margin-top: -74%;
+      margin-left: 10%;
+      margin-top: 0%;
+    }
+    .Rectangle-Copy-712 {
+      position: relative;
+      width: 265px;
+      height: 120px !important;
+      border-radius: 17px;
+      box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+      border: solid 1px #e4e4e4;
+      background-color: #ffffff;
+      margin-left: 10%;
+      margin-top: 0%;
     }
     fratures_container {
        margin-left: 0% !important; 
@@ -3320,35 +3347,28 @@ line-height: 2.8rem;
       padding-left:10%;
       font-size:18px;
       font-weight: 900;
-      font-family: fontGraphikbold;
+     
       color:white;
     }
     .paraslide
     {
     padding-left:10%;
     color:white;
-    padding-right: 35%;
+    padding-right: 5%;
     padding-top: 3%;
     font-size:16px;
     line-height: 1.8rem;
     }
-     .points_1
-    {
-      padding-top:15%;
-      padding-left:10%;
-      font-size:18px;
-      font-weight: 900;
-      font-family: fontGraphikbold;
-      color:black;
-    }
+     
     .paraslide_1
     {
     padding-left:10%;
     color:black;
-    padding-right: 34%;
+    padding-right: 0%;
     padding-top: 3%;
     font-size:16px;
     line-height: 1.8rem;
+    
     }
     .block {
       margin-left: 10% !important;
@@ -3490,8 +3510,8 @@ line-height: 2.8rem;
 
     .icon_12 {
       left  : 0px !important;
-      width : 90px !important;
-      height: 90px !important;
+      width : 60px !important;
+      height: 60px !important;
     }
 
     .green_svg {
@@ -3511,15 +3531,36 @@ line-height: 2.8rem;
     }
 
     .icon_112 {
-      left: 50px !important;
+      left: 35px !important;
+      width: 31px !important;
+      height: 31px !important;
     }
-
-    .icon_1123 {
-      left: 50px !important;
-    }
-
     .line {
-      margin-top: 105px !important;
+      margin-top: 95px !important;
+      margin-left: 45%;
+  }
+  .line1 {
+    margin-top: 95px !important;
+    margin-left: 45%;
+}
+    .tick
+    {
+        width: 25px !important;
+    }
+    .icon_1123 {
+      left: 35px !important;
+      width: 31px !important;
+      height: 31px !important;
+    }
+    .wordo_4 {
+      padding-left: 4px;
+      padding-top: 36px;
+      padding-right: 16px;
+    }
+    .wordo_41 {
+      padding-left: 4px;
+      padding-top: 7px;
+      padding-right: 16px;
     }
 
     .line1 {
@@ -3534,6 +3575,7 @@ line-height: 2.8rem;
 
     .para_on_goals {
       padding-right: 5%;
+      font-size: 17px !important;
     }
 
     .goal_ {
@@ -3582,7 +3624,6 @@ line-height: 2.8rem;
     .lets {
       text-align  : left !important;
       padding-top : 2%;
-      font-family : "fontGraphikbold";
       font-size   : 1.7rem;
       padding-left: 30% !important;
 
@@ -3644,6 +3685,20 @@ line-height: 2.8rem;
   position: relative;
   bottom: 0px;
   }
+  .The-goal-was-to-buil {
+    font-family: Avenir-Medium;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.0;
+    letter-spacing: normal;
+    text-align: center;
+    color: #878787;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+}
   }
   @media only screen and (max-width: 321px) {
     .Line-1 {
@@ -3707,7 +3762,7 @@ line-height: 2.8rem;
     .lets {
       text-align  : left !important;
       padding-top : 2%;
-      font-family : "fontGraphikbold";
+      
       font-size   : 1.5rem;
       padding-left: 30% !important;
     }
@@ -3766,7 +3821,7 @@ line-height: 2.8rem;
   }
   .product_word {
     font-size: 1.3rem;
-    font-family: "fontGraphiksemibold";
+ 
     color: rgb(2, 0, 0);
     margin-top: 2% !important;
 }
@@ -3857,7 +3912,6 @@ line-height: 2.8rem;
 .lets {
   text-align: left !important;
   padding-top: 2%;
-  font-family: "fontGraphikbold";
   font-size: 1.4rem;
   padding-left: 30% !important;
 }
@@ -3911,14 +3965,16 @@ line-height: 2.8rem;
   margin-top: 0%!important;
 }
 .newlist .title1 {
-  font-size  : 18px !important;
-  margin-top : -32% !important;
+  font-size: 20px !important;
+  margin-top: -23% !important;
   margin-left: 0px !important;
+  position: relative;
 }
 .img123 {
   width: 37%;
   margin-left: 64%;
   margin-top: -30%;
+  position:relative;
 }
 .img12345 {
   width: 46%;
@@ -3984,11 +4040,141 @@ line-height: 2.8rem;
       margin-left: 0% !important;
     }
     .newlist .title1 {
-      font-size  : 18px !important;
-      margin-top : -32% !important;
+      font-size: 20px !important;
+      margin-top: -23% !important;
       margin-left: 0px !important;
-    }
+      position: relative;
+  }
     .new_12 {
       margin-left: 0% !important;
     }
+
+    .banner_text_1 h2 {
+      font-size: 20px;
+    }
+    .banner_text_2 p {
+    margin-top: 30px;
+    font-size: 17px;
+    font-family: Avenir Book;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.39;
+    letter-spacing: normal;
+    color: var(--greyish-brown);
+    padding-right: 1% ;
+}
+    .banner_text_1 p {
+      font-size: 26px;
+  }
+  .icon_12 {
+    left: 15px !important;
+    width: 65px !important;
+    height: 65px !important;
+    margin-top:20% !important;
+}
+.img1
+{
+  width: 20px !important;
+  
+}
+.product_word {
+
+  font-family: Avenir Black;
+  font-size: 20px;
+  margin-top: 3%;
+}
+.lineclass {
+  padding-left: 4%;
+  padding-bottom: 2%;
+}
+.numbers {
+  font-family: "AgencyFB-Bold";
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  padding-top: 15%;
+  padding-left: 40%;
+}
+.Lorem-1 {
+  font-family: Avenir-Heavy;
+  font-size: 18px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #adadad;
+  padding-top: 5%;
+  padding-left: 40%;
+}
+.newhead_1 {
+  font-family: Avenir Book;
+    font-size: 28px !important;
+
+}
+.newhead_2 {
+  font-size: 20px;
+  text-align: center;
+}
+.feau_head {
+  font-size: 28px;
+}
+.Title-goes-here h1 {
+  font-size: 24px !important;
+  margin-top: 10% ;
+  font-weight: 0;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  text-align: center;
+  font-family: "Avenir Black";
+  color: #000000;
+}
+.Lorem-ipsum-dolor-si {
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.04;
+  letter-spacing: normal;
+  text-align: center;
+  color: #595959;
+  padding-left: 11%;
+  padding-right: 6%;
+  padding-bottom: 0%;
+  padding-top: 2%;
+}
+.oval {
+  width           : 10px;
+  height          : 10px;
+  background-color: #ffa000;
+  border-radius   : 9px;
+  margin-top      : 40px !important;
+
+}
+.points {
+  padding-top: 12%;
+  padding-left: 0%;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+  font-family: Avenir black;
+  color: white;
+}
+.points_1 {
+  padding-top: 12%;
+  padding-left: 0%;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+  font-family: Avenir black;
+  color: black;
+}
+
   }
