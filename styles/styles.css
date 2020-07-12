@@ -517,15 +517,23 @@ body {
     margin-left: 63%;
     margin-top: -40%;
 }
+
+
+.img123_4
+{
+  width: 35%;
+  margin-left: 73%;
+  margin-top: -42%;
+}
 .img1234
 {
   margin-left: 75%;
-  margin-top: -21%;
+  margin-top: -29%;
 }
 .img12345 {
-  width: 90%;
-  margin-left: -10% !important;
-  margin-top: -51%!important;
+  width: 35%;
+  margin-left: 0% !important;
+  margin-top: -8%!important;
 }
 .qoute_contents {
   background-color: #1D1A42;
@@ -989,7 +997,7 @@ banner_text_1 p
 }
 .top_intro1
 {
-  
+  margin-top: -96px !important;
   font-size: 36px;
   font-weight: normal;
   font-stretch: normal;
@@ -1041,6 +1049,7 @@ banner_text_1 p
 
 .fav_icon {
   margin-left: 90%;
+  margin-top: 6%;
 }
 
 .points {
@@ -1134,6 +1143,13 @@ banner_text_1 p
   
 }
 
+
+
+.img1234 {
+    margin-left: 69%;
+    margin-top: -28%;
+    width: 35%;
+}
 .newhead_2 {
  
   margin-top : 1%;
@@ -1554,7 +1570,7 @@ button:focus {
   padding-top   : 11px;
   padding-bottom: 0px;
   padding-right : 70px; 
-  border-right  : 1px solid rgb(243, 243, 243);
+  
   font-family: Avenir-Medium;
   font-size: 21px;
   font-weight: 580;
@@ -1575,7 +1591,7 @@ button:focus {
   background-color: #1D1A42;
   padding-top     : 100px;
   padding-left    : 0px;
-  padding-right   : 100px;
+  padding-right   : 0px !important;
   padding-bottom  : 50px;
 }
 
@@ -1661,7 +1677,7 @@ font-size    : 1.2rem;
   line-height: 1.69;
   letter-spacing: normal;
   color: #ffffff;
-  margin-top: -26% !important;
+  margin-top: -41% !important;
   margin-left: 16%;
   text-align: center;
 
@@ -2025,7 +2041,7 @@ font-size    : 1.2rem;
 
 @media only screen and (min-width: 2240px) {
   .header_text {
-    background-size: contain;
+    background-size: container;
     margin-bottom  : 4%;
     padding-bottom : 6%;
   }
@@ -2355,12 +2371,17 @@ line-height: 2.8rem;
 }
 .img12 {
   width: 38% !important;
-  margin-left: -11% !important;
+  margin-left: -3% !important;
   margin-top: 0%!important;
 }
 .features_lhs1 {
   width: 31%;
   margin-top: 0%;
+}
+.img123_4 {
+  width: 35%;
+  margin-left: 65%;
+  margin-top: -42%;
 }
 .features_lhs {
   width: 34%;
@@ -2412,7 +2433,7 @@ line-height: 2.8rem;
     padding-right : 70px;
     line-height   : 2.2rem;
     color         : rgb(85, 85, 85);
-    border-right  : 1px solid rgb(243, 243, 243);
+    
   }
 
   .wordo_41 {
@@ -2422,7 +2443,7 @@ line-height: 2.8rem;
     padding-right : 70px;
     line-height   : 2.2rem;
     color         : rgb(85, 85, 85);
-    border-right  : 1px solid rgb(243, 243, 243);
+    
   }
 
   .title1 {
@@ -2459,10 +2480,22 @@ line-height: 2.8rem;
   }
 
   .banner_text_3 .words_1 {
-    margin-left: 16% !important;
+    margin-left: 8% !important;
     font-size  : 16px;
   }
-
+  .banner_text_3
+  {
+    padding-right: 0px !important;
+  }
+  .img12345 {
+    width: 35%;
+    margin-left: 0% !important;
+    margin-top: -11%!important;
+}
+.fav_icon {
+  margin-left: 86%;
+  margin-top: 6%;
+}
   .top_intro1 {
     padding-left: 10% !important;
 
@@ -2884,7 +2917,7 @@ line-height: 2.8rem;
     font-size     : 16px;
     line-height   : 2.2rem;
     color         : rgb(85, 85, 85);
-    border-right  : 1px solid rgb(243, 243, 243);
+    
     padding-top   : 7px;
     padding-bottom: 0px;
 
@@ -2994,7 +3027,7 @@ line-height: 2.8rem;
 
   .newlist .title1 {
     font-size  : 20px;
-    margin-top : -37%;
+    margin-top : -31%;
     margin-left: 20px !important;
 
   }
@@ -3030,8 +3063,8 @@ line-height: 2.8rem;
   }
   .img123 {
     width: 33%;
-    margin-left: 63%;
-    margin-top: -31%;
+    margin-left: 70%;
+    margin-top: -29%;
 }
   
   .img1234 {
@@ -3407,6 +3440,7 @@ line-height: 2.8rem;
     .top_intro1 {
       padding-left: 17% !important;
       font-size   : 24px !important;
+
     }
 
     .Line-Copy {
@@ -3511,6 +3545,7 @@ line-height: 2.8rem;
 
     .fav_icon {
       margin-left: 74%;
+      
     }
 
     .icon_12 {
@@ -3619,7 +3654,7 @@ line-height: 2.8rem;
       text-align  : left !important;
       font-size   : 1.4rem !important;
       padding-left: -6% !important;
-      margin-top: -41%;
+      margin-top: -25% !important;
     }
     .circlewhite {
       width: 75px !important;
@@ -3729,7 +3764,19 @@ line-height: 2.8rem;
       margin-left: 60% !important;
 
     }
+    .banner_text_3 .words_1 {
+      font-size: 12px !important;
+      padding-left: 14% !important;
+  }
+  .wordo_41 {
+    font-size: 16px;
+    line-height: 2.2rem;
+    color: rgb(85, 85, 85);
 
+    padding-left: 10px !important;
+    padding-bottom: 0px;
+    padding-right: 2px !important;
+}
     .img1 {
       width: 24px !important;
     }
@@ -3806,7 +3853,7 @@ line-height: 2.8rem;
     }
   }
 
-  @media only screen and (max-width: 375px) {
+  @media only screen and (max-width: 395px) {
     .icon_112 {
       left: 29px !important;
       width: 30px !important;
@@ -3875,7 +3922,7 @@ line-height: 2.8rem;
   font-size: 16px;
   line-height: 2.2rem;
   color: rgb(85, 85, 85);
-  border-right: 1px solid rgb(243, 243, 243);
+ 
   padding-left: 0px !important;
   padding-top: 2px;
   padding-bottom: 0px;
@@ -3885,7 +3932,7 @@ line-height: 2.8rem;
   font-size: 16px;
   line-height: 2.2rem;
   color: rgb(85, 85, 85);
-  border-right: 1px solid rgb(243, 243, 243);
+  
   padding-left: 10px !important;
   padding-top: 5px;
   padding-bottom: 0px;
@@ -3974,7 +4021,7 @@ line-height: 2.8rem;
   
   font-size: 1.3rem !important;
   padding-left: -6% !important;
-  padding-top:5% !important;
+  padding-top:18% !important;
 }
 .new_12 {
   margin-left: 0% !important;
