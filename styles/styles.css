@@ -2623,7 +2623,7 @@ line-height: 2.8rem;
 .middle_text {
   margin-top: 4%;
   margin-bottom: 4%;
-  margin-left: 4% !important;
+  margin-left: 0% !important;
 }
 .goal_ {
   background-color: rgb(255, 255, 255);
@@ -4205,7 +4205,12 @@ line-height: 2.8rem;
       margin-left: 0% !important;
      
     }
-
+    .img123_4 {
+      width: 35%;
+      margin-left: 65%;
+      margin-top: 30%;
+      position: absolute;
+    }
     .banner_text_1 h2 {
       font-size: 20px;
     }
