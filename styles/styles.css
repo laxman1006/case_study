@@ -4244,6 +4244,7 @@ line-height: 2.8rem;
     }
     
     .new_12 {
+      max-width: 360px !important;
       margin-left: 0% !important;
      
     }
@@ -4451,5 +4452,10 @@ line-height: 2.8rem;
 }
 .words_1 {
   max-width: 400px;
+}
+.challenge
+{
+  margin-left: 2% !important;
+  max-width: 400px !important;
 }
   }
