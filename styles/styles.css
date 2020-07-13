@@ -3565,9 +3565,9 @@ line-height: 2.8rem;
     }
 
     .orange_svg {
-      margin-left: 96%;
-      margin-top : -4%;
-      width      : 8%;
+      margin-left: 98%;
+      margin-top : -3%;
+      width      : 4%;
     }
 
     .icon_112 {
@@ -4185,6 +4185,12 @@ line-height: 2.8rem;
   font-size: 18px;
   font-weight: 900;
   color: white;
+}
+.carousel-control-next {
+  margin-top: 129px !important;
+  margin-right: 8% !important;
+  width: 30px !important;
+  height: 30px !important;
 }
   }
   @media only screen and (max-width: 426px) { 
