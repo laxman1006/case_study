@@ -3546,7 +3546,7 @@ line-height: 2.8rem;
     }
 
     .Line-1 {
-      padding-left: 16% !important;
+      padding-left: 0% !important;
     }
 
     .w-100 {
@@ -3604,7 +3604,7 @@ line-height: 2.8rem;
   }
   .line1 {
     margin-top: 95px !important;
-    margin-left: 45%;
+    margin-left: 38%;
 }
     .tick
     {
@@ -3631,9 +3631,8 @@ line-height: 2.8rem;
     }
 
     .white_svg {
-      margin-left: -132%;
-      margin-top : -312%;
-      width      : 76%;
+      
+      display: none !important;
     }
 
     .para_on_goals {
@@ -3675,7 +3674,7 @@ line-height: 2.8rem;
 
     .need_help {
       text-align  : left !important;
-      font-size   : 1.4rem !important;
+      font-size   : 17px !important;
       padding-left: -6% !important;
       margin-top: -25% !important;
     }
@@ -3721,7 +3720,7 @@ line-height: 2.8rem;
 }
 .img123 {
   width: 37%;
-  margin-left: 59%;
+  margin-left: 45%;
   margin-top: -35%;
   position: absolute ;
   
@@ -3894,6 +3893,9 @@ line-height: 2.8rem;
       border-radius:100px !important;
 
     }
+    .Line-1{
+      padding-left: 16% !important;
+    }
     .img123_4 {
       width: 35%;
       margin-left: 65%;
@@ -4055,7 +4057,7 @@ line-height: 2.8rem;
 }
 .need_help {
   
-  font-size: 1.3rem !important;
+  font-size: 16px !important;
   padding-left: -6% !important;
   padding-top:2% !important;
 }
@@ -4069,6 +4071,18 @@ line-height: 2.8rem;
   border-radius   : 9px;
   margin-top      : 40px !important;
 
+}
+.challenge
+{
+  margin-left: 4% !important;
+  margin-right: 3% !important;
+  max-width: 330px !important;
+}
+.next_help
+{
+  margin-left: 4% !important;
+  margin-right: 3% !important;
+  max-width: 330px !important;
 }
 .oval_svg
 {
@@ -4250,8 +4264,8 @@ line-height: 2.8rem;
     }
     .img123_4 {
       width: 35%;
-      margin-left: 65%;
-      margin-top: 30%;
+      margin-left:58%;
+      margin-top: 28%;
       position: absolute;
     }
     .banner_text_1 h2 {
@@ -4457,13 +4471,13 @@ line-height: 2.8rem;
 {
   margin-left: 4% !important;
   margin-right: 3% !important;
-  max-width: 330px !important;
+  max-width: 400px !important;
 }
 .next_help
 {
-  margin-left: 4% !important;
-  margin-right: 3% !important;
-  max-width: 330px !important;
+  margin-left: 6% !important;
+  margin-right: 0% !important;
+  max-width: 400px !important;
 }
 }
   
