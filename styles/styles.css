@@ -795,6 +795,7 @@ banner_text_1 p
 .words_1
 {
   margin-top: 8px;
+  
 }
 .words_1 .web_app
 {
@@ -848,6 +849,21 @@ banner_text_1 p
 {
   width: 31%;
   margin-top: -4%;
+  
+}
+.icon_12
+{
+  margin-top: 7px; 
+  padding: 0;
+display: flex; 
+background-color:#fcebc8 ;
+ border-radius: 60px;
+  position: absolute; 
+   text-align: center; 
+    width: 113px;
+    left:40%;
+  height: 113px;
+  border: solid 4px #ffffff;
   
 }
 .features_lhs1
@@ -3298,6 +3314,13 @@ line-height: 2.8rem;
     margin-top: 0%!important;
     position: absolute;
 }
+.whole_content {
+  margin-top: 5%;
+  max-width: 441px !important;
+}
+.topic_quote {
+  max-width: 442px;
+}
   .words_1 .services_1 {
     font-size: 16px;
     font-weight: normal;
@@ -3408,7 +3431,7 @@ line-height: 2.8rem;
     
     }
     .block {
-      margin-left: 10% !important;
+      padding-left: 5% !important;
     }
     .carousel-control-prev
     {
@@ -3698,7 +3721,7 @@ line-height: 2.8rem;
 }
 .img123 {
   width: 37%;
-  margin-left: 63%;
+  margin-left: 59%;
   margin-top: -35%;
   position: absolute ;
   
@@ -3874,8 +3897,11 @@ line-height: 2.8rem;
     .img123_4 {
       width: 35%;
       margin-left: 65%;
-      margin-top: 27% !important;
+      margin-top: 39% !important;
       position: absolute;
+    }
+    .banner_text_1 {
+      padding: 0px !important;
     }
     .icon_12 {
       left: 4px !important;
@@ -3889,6 +3915,7 @@ line-height: 2.8rem;
     color: rgb(2, 0, 0);
     margin-top: 2% !important;
 }
+
 .words_1 .web_app {
   font-size: 14px;
   font-weight: 900;
@@ -3961,10 +3988,7 @@ line-height: 2.8rem;
     .Line-1{
       width: 80% !important;
     }
-    .new_1
-    {
-      margin: 4% !important;
-    }
+   
     .cards_0
    {
      padding-top:5%;
@@ -4231,6 +4255,11 @@ line-height: 2.8rem;
     }
     .banner_text_1 h2 {
       font-size: 20px;
+      padding-left: 4%;
+    }
+    .banner_text_1  {
+      font-size: 20px;
+      padding: 0px;
     }
     .banner_text_2 p {
     margin-top: 30px;
@@ -4246,7 +4275,21 @@ line-height: 2.8rem;
 }
     .banner_text_1 p {
       font-size: 26px;
-  }
+      margin: 0px !important;
+    margin-bottom: 0;
+    padding-left: 4%;
+    
+    
+    max-width: 400px;
+    font-family: Avenir Black;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+  
   .icon_12 {
     left: 15px !important;
     width: 65px !important;
@@ -4296,6 +4339,13 @@ line-height: 2.8rem;
   font-family: Avenir Book;
     font-size: 28px !important;
 
+}
+.carousel-control-next {
+  margin-right: 1%;
+  margin-top: 129px !important;
+  margin-left: 0px !important;
+  width: 30px !important;
+  height: 30px !important;
 }
 .newhead_2 {
   font-size: 20px;
@@ -4347,10 +4397,7 @@ line-height: 2.8rem;
   font-family: Avenir black;
   color: white;
 }
-.new_1
-    {
-      margin: 2% !important;
-    }
+
 .points_1 {
   padding-top: 12%;
   padding-left: 0%;
@@ -4379,5 +4426,30 @@ line-height: 2.8rem;
 {
   width: 10px !important;
   
+}
+.features_row {
+  margin-top: 6%;
+  max-width: 420px !important;
+}
+.fratures_container
+{
+  max-width: 440px !important;
+    margin-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+.carousel-control-prev {
+  margin-top: 122px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin-left: 11px;
+
+}
+.result_row
+{
+  max-width: 440px !important;
+}
+.words_1 {
+  max-width: 400px;
 }
   }
