@@ -3461,7 +3461,7 @@ line-height: 2.8rem;
     }
 
     .top_intro1 {
-      padding-left: 17% !important;
+      padding-left: 20% !important;
       font-size   : 24px !important;
 
     }
@@ -3488,7 +3488,7 @@ line-height: 2.8rem;
 
     .words_from {
       font-size   : 22px !important;
-      padding-left: 16% !important;
+      padding-left: 20% !important;
 
     }
     .dotted{
@@ -3531,9 +3531,7 @@ line-height: 2.8rem;
   padding-bottom:0%;
   padding-top:2%;
 }
-    .top_intro1 {
-      padding-left: 18% !important;
-    }
+    
 
     .quote_content {
       color        : rgba(216, 215, 215, 0.863);
@@ -3728,7 +3726,7 @@ line-height: 2.8rem;
 .img1234 {
   width: 37%;
   margin-left: 63%;
-  margin-top: 28%;
+  margin-top: -34%;
   position: absolute;
 }
 .features_lhs1 {
@@ -4270,7 +4268,7 @@ line-height: 2.8rem;
     }
     .banner_text_1 h2 {
       font-size: 20px;
-      padding-left: 19% !important;
+      padding-left: 4%;
     }
     .banner_text_1  {
       font-size: 20px;
@@ -4289,11 +4287,11 @@ line-height: 2.8rem;
     padding-right: 1% ;
 }
     .banner_text_1 p {
-
+      
       font-size: 26px;
       margin: 0px !important;
     margin-bottom: 0;
-    padding-left: 19% !important;
+    padding-left: 4%;
     
     
     max-width: 400px;
