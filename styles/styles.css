@@ -3431,7 +3431,7 @@ line-height: 2.8rem;
     
     }
     .block {
-      padding-left: 5% !important;
+      padding-left: 3% !important;
     }
     .carousel-control-prev
     {
@@ -4356,7 +4356,7 @@ line-height: 2.8rem;
 
 }
 .carousel-control-next {
-  margin-right: 3% !important;
+  margin-right: 5% !important;
   margin-top: 129px !important;
   margin-left: 0px !important;
   width: 30px !important;
