@@ -3503,18 +3503,18 @@ line-height: 2.8rem;
    .cards0
    {
      margin-top: 0%;
-     padding-left: 24% !important;
+     padding-left: 22% !important;
    }
    .cards1
    {
      margin-top: 4%;
-     margin-left: 21% !important;
+     margin-left: 19% !important;
    }
    
    .cards
    {
      margin-top: 4%;
-     margin-left: 21% ;
+     margin-left: 19% ;
    }
    .Lorem-ipsum-dolor-si
 {
@@ -3546,7 +3546,7 @@ line-height: 2.8rem;
     }
 
     .Line-1 {
-      padding-left: 0% !important;
+      padding-left: 16% !important;
     }
 
     .w-100 {
@@ -4270,7 +4270,7 @@ line-height: 2.8rem;
     }
     .banner_text_1 h2 {
       font-size: 20px;
-      padding-left: 4%;
+      padding-left: 19% !important;
     }
     .banner_text_1  {
       font-size: 20px;
@@ -4289,10 +4289,11 @@ line-height: 2.8rem;
     padding-right: 1% ;
 }
     .banner_text_1 p {
+
       font-size: 26px;
       margin: 0px !important;
     margin-bottom: 0;
-    padding-left: 4%;
+    padding-left: 19% !important;
     
     
     max-width: 400px;
