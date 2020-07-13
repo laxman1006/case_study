@@ -3964,7 +3964,8 @@ line-height: 2.8rem;
     
     .next_help
     {
-      margin: 2% !important; 
+      margin-left: 2% !important; 
+      margin-right: 2% !important;
      
     }
     .cards_0
