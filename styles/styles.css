@@ -4356,7 +4356,7 @@ line-height: 2.8rem;
 
 }
 .carousel-control-next {
-  margin-right: 1%;
+  margin-right: 3% !important;
   margin-top: 129px !important;
   margin-left: 0px !important;
   width: 30px !important;
