@@ -3951,6 +3951,9 @@ line-height: 2.8rem;
   background-color: rgb(255, 255, 255);
   border: 1px solid rgb(235, 235, 235);
 }
+.block{
+  padding-left: 0% !important;
+}
 .wordo_4 .para_on_goals {
   font-size: 16px;
   line-height: 2.2rem;
@@ -4014,7 +4017,7 @@ line-height: 2.8rem;
 
    }
    .numbers {
-    font-family: fontGraphicbold;
+ 
     font-size: 27px;
     font-weight: 900;
     font-stretch: normal;
@@ -4230,7 +4233,7 @@ line-height: 2.8rem;
 }
 .carousel-control-next {
   margin-top: 129px !important;
-  margin-right: 8% !important;
+ 
   width: 30px !important;
   height: 30px !important;
 }
@@ -4456,7 +4459,7 @@ line-height: 2.8rem;
   margin-top: 122px !important;
   width: 30px !important;
   height: 30px !important;
-  margin-left: 11px;
+  margin-left: 0px;
 
 }
 .result_row
