@@ -2708,7 +2708,7 @@ line-height: 2.8rem;
   width: 272px;
   height: 250px;
   border-radius: 17px;
-  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11) !important;
   border: solid 1px #e4e4e4;
   background-color: #ffffff;
   margin-left: 65%;
@@ -3330,7 +3330,9 @@ line-height: 2.8rem;
     letter-spacing: normal;
     color: #878787;
 }
-
+.Title-goes-here {
+  margin-top: 8%;
+}
     .qoute_contents {
       background-color: #1D1A42;
       padding-top     : 50px;
@@ -3894,6 +3896,9 @@ line-height: 2.8rem;
     .Line-1{
       padding-left: 16% !important;
     }
+    .Title-goes-here {
+      margin-top: 8%;
+    }
     .img123_4 {
       width: 35%;
       margin-left: 65%;
@@ -4129,8 +4134,8 @@ line-height: 2.8rem;
 .para_challenge {
   font-size    : 1.3rem;
   padding-top  : 60px;
-  padding-left : 10px;
-  padding-right: 10px;
+  padding-left : 30px;
+  padding-right: 30px;
   line-height  : 2.2rem;
   text-align   : center;
   color        : #dfdddd;
@@ -4188,10 +4193,10 @@ line-height: 2.8rem;
   width: 238px;
   height: 120px;
   border-radius: 17px;
-  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11) !important;
   border: solid 1px #e4e4e4;
   background-color: #ffffff;
-  margin-left: 10%;
+  margin-left: 8%;
   margin-top: 15% !important;
 }
 .Rectangle-Copy-71 {
@@ -4199,10 +4204,10 @@ line-height: 2.8rem;
   width: 235px !important;
   height: 120px;
   border-radius: 17px;
-  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
-  border: solid 1px #e4e4e4;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11) !important;
+  border: 1px #e4e4e4;
   background-color: #ffffff;
-  margin-left: 10%;
+  margin-left: 8%;
   margin-top: 0%;
 }
 
@@ -4211,10 +4216,10 @@ line-height: 2.8rem;
   width: 235px !important;
   height: 120px !important;
   border-radius: 17px;
-  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11);
-  border: solid 1px #e4e4e4;
+  box-shadow: 0 32px 34px 0 rgba(0, 0, 0, 0.11) !important;
+  border:  1px #e4e4e4;
   background-color: #ffffff;
-  margin-left: 10%;
+  margin-left: 8%;
   margin-top: 0%;
 }
 .points {
@@ -4223,6 +4228,10 @@ line-height: 2.8rem;
   font-size: 18px;
   font-weight: 900;
   color: white;
+}
+.fratures_container
+{
+  margin-top: 10%;
 }
 .points_1 {
   padding-top: 4% !important;
@@ -4453,6 +4462,9 @@ line-height: 2.8rem;
   max-width: 440px !important;
     margin-left: 0px !important;
     padding-right: 0px !important;
+
+  margin-top: 10%;
+
 
 }
 .carousel-control-prev {
