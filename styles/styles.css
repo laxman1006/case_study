@@ -3961,6 +3961,10 @@ line-height: 2.8rem;
     .Line-1{
       width: 80% !important;
     }
+    .new_1
+    {
+      margin: 2% !important;
+    }
     .cards_0
    {
      padding-top:5%;
@@ -4343,6 +4347,10 @@ line-height: 2.8rem;
   font-family: Avenir black;
   color: white;
 }
+.new_1
+    {
+      margin: 2% !important;
+    }
 .points_1 {
   padding-top: 12%;
   padding-left: 0%;
