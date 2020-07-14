@@ -3297,8 +3297,15 @@ line-height: 2.8rem;
 
     .banner_text_31 {
       padding-left: 10% !important;
-      
+      max-width: 400px !important;
       font-size   : 14px !important;
+    }
+    .banner_text_3 {
+      max-width: 400px !important;
+
+    }
+    .header_text {
+      max-width: 400px !important;
     }
     .words_1 .web_app {
       font-size: 16px;
@@ -3659,6 +3666,7 @@ line-height: 2.8rem;
     .banner_text_3 .words_1 {
       font-size   : 12px !important;
       padding-left: 9% !important;
+      max-width: 400px !important;
     }
 
     .image_founder {
@@ -3812,6 +3820,9 @@ line-height: 2.8rem;
       padding-top:5%;
       padding-bottom:5%;
     }
+    .header_text {
+      max-width: 300px !important;
+    }
     .cards0
     {
       margin-top: 0%;
@@ -3886,6 +3897,9 @@ line-height: 2.8rem;
     .tick
     {
         width: 32px !important;
+    }
+    .header_text {
+      max-width: 375px !important;
     }
     .icon_1123 {
       left: 29px !important;
