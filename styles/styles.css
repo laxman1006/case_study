@@ -3921,6 +3921,29 @@ line-height: 2.8rem;
     margin-top: 2% !important;
 }
 
+.Line-Copy {
+  width      : 84px;
+  height     : 1px;
+  border     : solid 1.2px #ffa105;
+  margin-left: 35% !important;
+
+}
+.image_founder {
+  max-width: 380px !important;
+  overflow-x: hidden !important;
+}
+.topic_quote {
+max-width: 380px !important;
+overflow: hidden;
+}
+.whole_content {
+  margin-top: 5%;
+ max-width: 380px !important;
+ overflow: hidden;
+}
+.header_text {
+  overflow-x: hidden;
+}
 .words_1 .web_app {
   font-size: 14px;
   font-weight: 900;
@@ -4274,8 +4297,8 @@ line-height: 2.8rem;
     }
     .img123_4 {
       width: 35%;
-      margin-left:58%;
-      margin-top: 28%;
+      margin-left:59%;
+      margin-top: 31%;
       position: absolute;
     }
     .banner_text_1 h2 {
