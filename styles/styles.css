@@ -3901,6 +3901,21 @@ line-height: 2.8rem;
     .header_text {
       max-width: 360px !important;
     }
+    .icon-container {
+      position: absolute;
+      display: inline-block;
+      z-index: 2;
+      top: 0;
+      right: 23px !important;
+      height: 60px;
+      width: 55px;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+      -webkit-transition: all 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+      transition: all 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+  }
     .icon_1123 {
       left: 29px !important;
       width: 30px !important;
@@ -4536,6 +4551,21 @@ overflow: hidden;
   margin-left: 3% !important;
   margin-right: 4% !important;
   max-width: 400px !important;
+}
+.icon-container {
+  position: absolute;
+  display: inline-block;
+  z-index: 2;
+  top: 0;
+  right: 23px !important;
+  height: 60px;
+  width: 55px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: all 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
+  transition: all 0.3s cubic-bezier(0.4, 0.01, 0.165, 0.99);
 }
 }
 
