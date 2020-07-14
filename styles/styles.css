@@ -2381,9 +2381,10 @@ line-height: 2.8rem;
     text-align  : left;
   }
   .img1234 {
-    margin-left: 75%;
-    margin-top: -34%;
+    margin-left: 60%;
+    margin-top: -35%;
     width: 37%;
+    position: absolute;
 }
 .img12 {
   width: 38% !important;
@@ -3296,7 +3297,7 @@ line-height: 2.8rem;
 
     .banner_text_31 {
       padding-left: 10% !important;
-      
+      max-width: 400px !important;
       font-size   : 14px !important;
     }
     .words_1 .web_app {
@@ -3310,7 +3311,7 @@ line-height: 2.8rem;
   }
   .img12 {
     width: 38% !important;
-    margin-left: -11% !important;
+    margin-left: -8% !important;
     margin-top: 0%!important;
     position: absolute;
 }
@@ -3546,7 +3547,7 @@ line-height: 2.8rem;
     }
 
     .Line-1 {
-      padding-left: 16% !important;
+      padding-left: 0% !important;
     }
 
     .w-100 {
@@ -3920,7 +3921,19 @@ line-height: 2.8rem;
     color: rgb(2, 0, 0);
     margin-top: 2% !important;
 }
-
+.icon_1
+{
+  left: 0% !important;
+}
+.fa_icon 
+{
+  left: 0% !important;
+}
+.row
+{
+  margin-right: 0px;
+    margin-left: 0px;
+}
 .Line-Copy {
   width      : 84px;
   height     : 1px;
@@ -4303,8 +4316,8 @@ overflow: hidden;
     }
     .img123_4 {
       width: 35%;
-      margin-left:59%;
-      margin-top: 31%;
+      margin-left:55%;
+      margin-top: 38%;
       position: absolute;
     }
     .banner_text_1 h2 {
@@ -4468,7 +4481,7 @@ overflow: hidden;
 }
 .img122 {
   width: 37%;
-  margin-left: 0% !important;
+  margin-left: -5% !important;
   margin-top: -5%!important;
   margin-right: 257px;
 }
@@ -4522,11 +4535,28 @@ overflow: hidden;
   margin-right: 4% !important;
   max-width: 400px !important;
 }
+.icon_1
+{
+  left: 0% !important;
+}
+.fa_icon 
+{
+  left: 0% !important;
+}
+.row
+{
+  margin-right: 0px;
+    margin-left: 0px;
+}
 }
 
 @media only screen and (max-width: 412px)
 {
-
+  .row
+  {
+    margin-right: 0px;
+      margin-left: 0px;
+  }
 
 .img123_4 {
     width: 35% !important;
