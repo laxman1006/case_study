@@ -4568,6 +4568,19 @@ overflow: hidden;
  {
    overflow-x: hidden !important;
  } 
+ .icon_1
+{
+  left: 0% !important;
+}
+.fa_icon 
+{
+  left: 0% !important;
+}
+.row
+{
+  margin-right: 0px;
+    margin-left: 0px;
+}
 }
 @media only screen and (max-width: 378px)
 {
