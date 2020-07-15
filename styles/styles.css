@@ -3785,7 +3785,7 @@ line-height: 2.8rem;
     }
     .banner_text_3 .words_1 {
       font-size: 12px !important;
-      padding-left: 14% !important;
+     
   }
   .wordo_41 {
     font-size: 16px;
@@ -4590,5 +4590,32 @@ overflow: hidden;
  } 
  .row {
   margin-right: 0px !important;
+}
+}
+@media only screen and (max-width: 360px)
+{
+  .img123 {
+    width: 37%;
+    margin-left: 52%;
+    margin-top: -35%;
+    position: absolute;
+}
+}
+@media only screen and (max-width: 375px)
+{
+  .img123 {
+    width: 37%;
+    margin-left: 52% !important;
+    margin-top: -35% !important;
+    position: absolute;
+}
+}
+@media only screen and (max-width: 375px)
+{
+  .img123 {
+    width: 37%;
+    margin-left: 52%;
+    margin-top: -35%;
+    position: absolute;
 }
 }
