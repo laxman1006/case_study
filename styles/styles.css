@@ -4609,13 +4609,208 @@ overflow: hidden;
     margin-top: -35% !important;
     position: absolute;
 }
+.icon_1
+{
+  margin-left: 6% !important;
 }
-@media only screen and (max-width: 375px)
+.fa_icon
+{
+  margin-left: 6% !important;
+}
+.banner_text_3 .words_1 {
+  margin-left: 15% !important;
+}
+.wordo_4 {
+  border-right: hidden !important;
+}
+.goal_ {
+  margin-top: 4% !important;
+  margin-left: 0% !important;
+  padding-left: 4% !important;
+}
+.icon_12 {
+  left: 5px !important;
+  width: 65px !important;
+  height: 65px !important;
+  margin-top: 20% !important;
+}
+.orange_svg {
+  margin-top: -2%;
+  width: 4%;
+  float: right !important;
+  position: absolute;
+}
+.fratures_container
+{
+ padding-left: 0% !important;
+    margin-left: 0px !important;
+    padding-right: 0px !important;
+
+  margin-top: 10%;
+
+
+}
+.lineclass {
+  padding-left: 8%;
+  
+}
+.The-goal-was-to-buil {
+  font-family: Avenir-Medium;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.0;
+  letter-spacing: normal;
+  text-align: center;
+  color: #878787;
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-top: 2%;
+}
+.carousel-control-next {
+  margin-right: 0% !important;
+  margin-top: 129px !important;
+  margin-left: 0px !important;
+  width: 30px !important;
+  height: 30px !important;
+}
+.carousel-control-prev {
+  margin-top: 122px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin-left: 14px;
+}
+.block {
+  padding-left: 6% !important;
+}
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.Title-goes-here {
+ padding-right: 0px !important;
+}
+.Line-1 {
+  padding-left: 0% !important;
+}
+.cards0 {
+  margin-top: 0%;
+  padding-left: 28% !important;
+}
+.cards1 {
+  margin-top: 10%;
+  margin-left: 23% !important;
+}
+.cards {
+  margin-top: 10%;
+  margin-left: 23% !important;
+}
+
+}
+@media only screen and (max-width: 414px)
 {
   .img123 {
     width: 37%;
-    margin-left: 52%;
-    margin-top: -35%;
+    margin-left: 52% !important;
+    margin-top: -35% !important;
     position: absolute;
+}
+.icon_1
+{
+  margin-left: 6% !important;
+}
+.fa_icon
+{
+  margin-left: 6% !important;
+}
+.banner_text_3 .words_1 {
+  margin-left: 15% !important;
+}
+.wordo_4 {
+  border-right: hidden !important;
+}
+.goal_ {
+  margin-top: 4% !important;
+  margin-left: 0% !important;
+  padding-left: 4% !important;
+}
+.icon_12 {
+  left: 5px !important;
+  width: 65px !important;
+  height: 65px !important;
+  margin-top: 20% !important;
+}
+.orange_svg {
+  margin-top: -2%;
+  width: 4%;
+  float: right !important;
+  position: absolute;
+}
+.fratures_container
+{
+ padding-left: 0% !important;
+    margin-left: 0px !important;
+    padding-right: 0px !important;
+
+  margin-top: 10%;
+
+
+}
+.lineclass {
+  padding-left: 8%;
+  
+}
+.The-goal-was-to-buil {
+  font-family: Avenir-Medium;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.0;
+  letter-spacing: normal;
+  text-align: center;
+  color: #878787;
+  padding-left: 6%;
+  padding-right: 7%;
+  padding-top: 2%;
+}
+.carousel-control-next {
+  margin-right: 0% !important;
+  margin-top: 129px !important;
+  margin-left: 0px !important;
+  width: 30px !important;
+  height: 30px !important;
+}
+.carousel-control-prev {
+  margin-top: 122px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin-left: 14px;
+}
+.block {
+  padding-left: 6% !important;
+}
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.Title-goes-here {
+ padding-right: 0px !important;
+}
+.Line-1 {
+  padding-left: 0% !important;
+}
+.cards0 {
+  margin-top: 0%;
+  padding-left: 28% !important;
+}
+.cards1 {
+  margin-top: 10%;
+  margin-left: 23% !important;
+}
+.cards {
+  margin-top: 10%;
+  margin-left: 23% !important;
 }
 }
