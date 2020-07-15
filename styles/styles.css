@@ -685,13 +685,15 @@ body {
 html {
   height     : 100%;
   width      : 100%;
- overflow-x: hidden;
+ 
+
+  
 }
 
 body {
   height     : 100%;
   width      : 100%;
-  overflow-x: hidden;
+
 }
 
 .first_section {
@@ -3880,9 +3882,7 @@ line-height: 2.8rem;
       height: 30px !important;
       border-radius:100px !important;
     }
-    .row {
-      margin-right: 0px !important;
-    }
+    
     .tick
     {
         width: 32px !important;
