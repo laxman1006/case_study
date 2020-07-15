@@ -685,12 +685,13 @@ body {
 html {
   height     : 100%;
   width      : 100%;
+  font-family: "fontLatoRegular";
 }
 
 body {
   height     : 100%;
   width      : 100%;
- 
+  font-family: "fontLatoRegular";
 }
 
 .first_section {
@@ -3296,7 +3297,7 @@ line-height: 2.8rem;
 
     .banner_text_31 {
       padding-left: 10% !important;
-   
+      max-width: 400px !important;
       font-size   : 14px !important;
     }
     .words_1 .web_app {
@@ -3316,9 +3317,11 @@ line-height: 2.8rem;
 }
 .whole_content {
   margin-top: 5%;
- 
+  max-width: 441px !important;
 }
-
+.topic_quote {
+  max-width: 442px;
+}
   .words_1 .services_1 {
     font-size: 16px;
     font-weight: normal;
@@ -3938,16 +3941,16 @@ line-height: 2.8rem;
 
 }
 .image_founder {
- 
+  max-width: 380px !important;
   overflow-x: hidden !important;
 }
 .topic_quote {
-
+max-width: 380px !important;
 overflow: hidden;
 }
 .whole_content {
   margin-top: 5%;
- 
+ max-width: 380px !important;
  overflow: hidden;
 }
 .header_text {
@@ -4114,13 +4117,13 @@ overflow: hidden;
 {
   margin-left: 4% !important;
   margin-right: 3% !important;
-
+  max-width: 330px !important;
 }
 .next_help
 {
   margin-left: 3% !important;
   margin-right: 3% !important;
-
+  max-width: 330px !important;
 }
 .oval_svg
 {
@@ -4306,7 +4309,7 @@ overflow: hidden;
     }
     
     .new_12 {
-     
+      max-width: 360px !important;
       margin-left: 0% !important;
      
     }
@@ -4344,7 +4347,7 @@ overflow: hidden;
     padding-left: 4%;
     
     
-   
+    max-width: 400px;
     font-family: Avenir Black;
     font-weight: 900;
     font-stretch: normal;
@@ -4493,11 +4496,11 @@ overflow: hidden;
 }
 .features_row {
   margin-top: 6%;
-  
+  max-width: 420px !important;
 }
 .fratures_container
 {
- 
+  max-width: 440px !important;
     margin-left: 0px !important;
     padding-right: 0px !important;
 
@@ -4512,19 +4515,24 @@ overflow: hidden;
   margin-left: 0px;
 
 }
-
-
+.result_row
+{
+  max-width: 440px !important;
+}
+.words_1 {
+  max-width: 400px;
+}
 .challenge
 {
   margin-left: 4% !important;
   margin-right: 3% !important;
-  
+  max-width: 400px !important;
 }
 .next_help
 {
   margin-left: 3% !important;
   margin-right: 4% !important;
- 
+  max-width: 400px !important;
 }
 .icon_1
 {
@@ -4550,7 +4558,11 @@ overflow: hidden;
 
 @media only screen and (max-width: 412px)
 {
-  
+  .row
+  {
+    margin-right: 0px;
+      margin-left: 0px;
+  }
 
 .img123_4 {
     width: 35% !important;
@@ -4570,7 +4582,11 @@ overflow: hidden;
 {
   left: 0% !important;
 }
-
+.row
+{
+  margin-right: 0px !important;
+    margin-left: 0px !important;
+}
 }
 @media only screen and (max-width: 378px)
 {
