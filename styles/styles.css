@@ -684,10 +684,7 @@ body {
 
 html {
   height     : 100%;
-  width      : 100%;
- 
-
-  
+  width      : 100%; 
 }
 
 body {
@@ -4537,10 +4534,9 @@ overflow: hidden;
 
 .container {
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+  
+    margin-right: 0px !important;
+    margin-left: 0px !important;
 }
 .row {
   margin-right: 0px !important;
@@ -4549,7 +4545,10 @@ overflow: hidden;
 
 @media only screen and (max-width: 412px)
 {
- 
+  .container {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
 .img123_4 {
     width: 35% !important;
     margin-left: 59% !important;
@@ -4575,6 +4574,10 @@ overflow: hidden;
 }
 @media only screen and (max-width: 378px)
 {
+  .container {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
   .img123_4 {
     width: 35% !important;
     margin-left: 59% !important;
