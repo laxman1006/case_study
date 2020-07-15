@@ -1784,7 +1784,9 @@ font-size    : 1.2rem;
   padding-bottom: 4%;
   padding-top   : 4%;
 }
-
+html-webkit-scrollbar {
+  display: none;
+}
 .footer .row {
   display      : -webkit-box;
   display      : -ms-flexbox;
@@ -3880,6 +3882,9 @@ line-height: 2.8rem;
       height: 30px !important;
       border-radius:100px !important;
     }
+    .row {
+      margin-right: 0px !important;
+    }
     .tick
     {
         width: 32px !important;
@@ -4539,6 +4544,9 @@ overflow: hidden;
     margin-right: auto;
     margin-left: auto;
 }
+.row {
+  margin-right: 0px !important;
+}
 }
 
 @media only screen and (max-width: 412px)
@@ -4549,6 +4557,9 @@ overflow: hidden;
     margin-left: 59% !important;
     margin-top: 44% !important;
     position: absolute;
+}
+.row {
+  margin-right: 0px !important;
 }
  .first_section 
  {
@@ -4576,4 +4587,7 @@ overflow: hidden;
  {
    overflow-x: hidden !important;
  } 
+ .row {
+  margin-right: 0px !important;
+}
 }
