@@ -3955,6 +3955,10 @@ overflow: hidden;
 }
 .header_text {
   overflow-x: hidden;
+  max-width: 380px !important;
+}
+.container {
+  max-width: 380px !important;
 }
 .words_1 .web_app {
   font-size: 14px;
@@ -4313,6 +4317,9 @@ overflow: hidden;
       margin-left: 0% !important;
      
     }
+    .container {
+      max-width: 415px !important;
+    }
     .img123_4 {
       width: 35%;
       margin-left:55%;
@@ -4554,6 +4561,9 @@ overflow: hidden;
     margin-right: auto;
     margin-left: auto;
 }
+.header_text {
+  max-width: 415px;
+}
 }
 
 @media only screen and (max-width: 412px)
@@ -4574,6 +4584,9 @@ overflow: hidden;
  {
    overflow-x: hidden !important;
  } 
+ .header_text {
+   max-width: 400px !important;
+ }
  .icon_1
 {
   left: 0% !important;
@@ -4596,8 +4609,5 @@ overflow: hidden;
     margin-top: 51% !important;
     position: absolute;
 }
- .first_section 
- {
-   overflow-x: hidden !important;
- } 
+
 }
