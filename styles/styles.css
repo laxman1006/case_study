@@ -4669,7 +4669,7 @@ overflow: hidden;
   padding-top: 2%;
 }
 .carousel-control-next {
-  margin-right: 0% !important;
+  margin-right: 9px !important;
   margin-top: 129px !important;
   margin-left: 0px !important;
   width: 30px !important;
@@ -4682,7 +4682,7 @@ overflow: hidden;
   margin-left: 14px;
 }
 .block {
-  padding-left: 6% !important;
+  padding-left: 0% !important;
 }
 .container-fluid {
   padding-left: 0px !important;
@@ -4706,10 +4706,87 @@ overflow: hidden;
   margin-top: 10%;
   margin-left: 23% !important;
 }
+.features_row
+{
+  padding: 0px !important;
+}
+.Line-Copy1 {
+  width      : 82px;
+  height     : 1px;
+  border     : solid 1.2px #6455c2;
+  margin-left: 0% !important;
 
+}
+.lineclass {
+  padding-left: 0% !important;
+  padding-right: 0px !important;
+  text-align:-webkit-center;
+  
+}
+.lineclass1 {
+  padding-left: 0% !important;
+  padding-right: 0px !important;
+  text-align:-webkit-center;
+  
+}
+.line {
+  margin-top: 105px !important;
+  margin-left: 40%;
+}
+.line1 {
+  margin-top: 70px !important;
+  margin-left: 40%;
+}
+.cards_0
+{
+  text-align: center;
+}
+.cards1
+{
+  display: inline-block;
+}
+.cards0
+{
+  display: inline-block;
+}
+.cards0
+
+{
+  display: inline-block;
+}
+.Lorem-ipsum-dolor-si p
+{
+  padding-left: 27px;
+  padding-right: 27px;
+  padding-top: 10px ;
+}
+.feau_head {
+  font-size: 24px;
+}   
+.new__
+{
+  padding-right:0px !important;
+}
+.second_row
+{
+  padding-right: 0px !important;
+}
+.newrow_2
+{
+  padding-right: 0px !important;  
+}
+.newhead_2
+{
+  padding-left: 20px ;
 }
 @media only screen and (max-width: 414px)
 {
+  .features_row
+{
+  padding:10px;
+  padding-right: 0px !important;
+  padding-left: 4px !important;
+}
   .img123 {
     width: 37%;
     margin-left: 52% !important;
@@ -4758,8 +4835,15 @@ overflow: hidden;
 
 }
 .lineclass {
-  padding-left: 8%;
+  padding-left: 0% !important;
+  text-align:-webkit-center;
   
+}
+.Line-Copy {
+  width: 84px;
+  height: 1px;
+  border: solid 1.2px #ffa105;
+  margin-left: 0% !important;
 }
 .The-goal-was-to-buil {
   font-family: Avenir-Medium;
@@ -4776,7 +4860,7 @@ overflow: hidden;
   padding-top: 2%;
 }
 .carousel-control-next {
-  margin-right: 0% !important;
+  margin-right: 2% !important;
   margin-top: 129px !important;
   margin-left: 0px !important;
   width: 30px !important;
@@ -4786,7 +4870,7 @@ overflow: hidden;
   margin-top: 122px !important;
   width: 30px !important;
   height: 30px !important;
-  margin-left: 14px;
+  margin-left: 22px;
 }
 .block {
   padding-left: 6% !important;
@@ -4812,5 +4896,6 @@ overflow: hidden;
 .cards {
   margin-top: 10%;
   margin-left: 23% !important;
+}
 }
 }
